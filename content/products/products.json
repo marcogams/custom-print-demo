@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Custom Mug",
+      "tags": ["Mugs"],
+      "image": "https://images.pexels.com/photos/8148584/pexels-photo-8148584.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+      "price": 25,
+      "ratings": 4.0
+    },
+    {
+      "id": 2,
+      "name": "Normal T-Shirt",
+      "tags": ["T-Shirts", "Test"],
+      "image": "https://images.pexels.com/photos/8217437/pexels-photo-8217437.jpeg",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+      "price": 30,
+      "ratings": 4.5
+    }
+  ]
+  

@@ -1,0 +1,19 @@
+.pointer {
+    cursor: pointer;
+  }
+
+.swal2-popup {
+  font-family: "Roboto", sans-serif !important;
+}
+
+.custommug {
+  overflow: hidden;
+  border-radius: 1%;
+  text-align: center;
+}
+
+.custommug-text {
+  font-size: 250%;
+  font-family:'Brush Script MT';
+  line-height: 0.8;
+}
